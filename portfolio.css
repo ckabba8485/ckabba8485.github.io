@@ -4,10 +4,8 @@
     color:white;
     font-size:20px;
 }
-.headshot{
-    width:20%;
    
-}
+
 .mid{
     display: flex;
     justify-content: space-around;
@@ -17,11 +15,6 @@
     font-size:50px;
     margin-top:5px;
     margin-bottom:5px;
-}
-.aboutme{
-    display: flex;
-    justify-content: center;
-    border:1px solid black;
 }
 
 .footer{
@@ -36,7 +29,8 @@
  justify-content: space-around;
 }
 
-a{
-    color: white;
-    text-decoration: none;
+h2{
+    display: flex;
+    justify-content: center;
 }
+
